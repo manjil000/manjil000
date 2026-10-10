@@ -12,13 +12,13 @@
 ---
 
 ```bash
-root@manjil000:~# cat about.txt
+root@devil:~# cat config.txt
 ```
 
 ```yaml
 name:      Manjil
-alias:     manjil000
-location:  Kathmandu, Nepal 🇳🇵
+alias:    cypher
+location:  [unknown]
 role:      Cybersecurity Enthusiast / Developer
 focus:     [Web Security, Network Security, CTFs, Automation]
 mission:   "Think like an attacker. Build like a defender."
@@ -37,7 +37,7 @@ status:    Always learning
 
 > ⚠️ **Ethical hacking only.** I test systems I own or have explicit permission to test.
 
-## 🛠️ Arsenal
+## 🛠️ Weapons
 
 <div align="center">
 
@@ -126,9 +126,9 @@ status:    Always learning
 ## Find me [Click any 1!!]
 
 - [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff46)](https://github.com/manjil000)
-- Tryhackme: [Ctz4Q]https://tryhackme.com/p/Ctz4Q
-- HTB: https://app.hackthebox.com/users/401113
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff46)](https://www.linkedin.com/in/manjil-simkhada-61a703323)]
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff46)](https://tryhackme.com/p/Ctz4Q)
+- [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff46)](https://app.hackthebox.com/users/401113)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff46)](https://www.linkedin.com/in/manjil-simkhada-61a703323)
 - [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff46)](mailto:mycredentials7@gmail.com)
 <div align="center">
 
