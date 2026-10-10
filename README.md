@@ -92,19 +92,7 @@ status:    Always learning
 <!-- Add your own links below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff46)](https://linkedin.com/in/YOUR_ID) -->
 <!-- [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff46)](mailto:YOUR_EMAIL) -->
-
-text
-"Knowledge is free. Use it responsibly."
-
 </div>
-
----
-
-## `whoami`
-
-Hey! I'm **Manjil Simkhada** — a hands-on learner exploring Linux, networking, web security, and practical cybersecurity labs. I enjoy understanding how systems work, troubleshooting them, and learning by building small experiments in controlled environments.
-
-I'm still learning, and I prefer curiosity, repeatable tests, and clear notes over pretending to know everything.
 
 ## What I'm exploring
 
@@ -146,7 +134,9 @@ I'm still learning, and I prefer curiosity, repeatable tests, and clear notes ov
 ## Find me
 
 - GitHub: [@manjil000](https://github.com/manjil000)
-
+- Tryhackme: [Ctz4Q]https://tryhackme.com/p/Ctz4Q
+- HTB: https://app.hackthebox.com/users/401113
+- LinkedIn: https://www.linkedin.com/in/manjil-simkhada-61a703323 
 <div align="center">
 
 *Stay curious. Stay ethical. Keep learning.*
