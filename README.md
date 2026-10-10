@@ -93,15 +93,8 @@ status:    Always learning
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff46)](https://linkedin.com/in/YOUR_ID) -->
 <!-- [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff46)](mailto:YOUR_EMAIL) -->
 
-# text
+text
 "Knowledge is free. Use it responsibly."
-
-
-# `manjil000`
-
-### Ethical Security Learner · Linux Enthusiast · Curious Builder
-
-*Learn deeply. Test responsibly. Document everything.*
 
 </div>
 
