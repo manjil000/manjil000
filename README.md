@@ -16,13 +16,13 @@ root@devil:~# cat config.txt
 ```
 
 ```yaml
-name:      Manjil
-alias:    cypher
-location:  [unknown]
-role:      Cybersecurity Enthusiast / Developer
-focus:     [Web Security, Network Security, CTFs, Automation]
-mission:   "Think like an attacker. Build like a defender."
-status:    Always learning
+Name:      Manjil
+Alias:     cypher
+Location:  [unknown]
+Role:      Cybersecurity Enthusiast / Developer
+Focus:     [Web Security, Network Security, CTFs, Automation]
+Mission:   "Think like an attacker. Build like a defender."
+Status:    Always learning
 ```
 
 ## 🕶️ Hacker Background
@@ -97,7 +97,7 @@ status:    Always learning
 
 ## Current lab interests
 
-- Building and troubleshooting local practice environments.
+- Building and troubleshooting local practice environments(VBOX,WSL,DOCKER).
 - Understanding how captive portals, DNS, and web requests fit together.
 - Learning the difference between a tool's output and what it actually proves.
 - Turning debugging sessions into reusable notes and safer scripts.
