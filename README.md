@@ -84,15 +84,7 @@ status:    Always learning
 
 </div>
 
-## 📫 Contact
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff46)](https://github.com/manjil000)
-<!-- Add your own links below -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff46)](https://linkedin.com/in/YOUR_ID) -->
-<!-- [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff46)](mailto:YOUR_EMAIL) -->
-</div>
 
 ## What I'm exploring
 
@@ -131,12 +123,12 @@ status:    Always learning
 - 🧪 **Practice in labs:** use local apps, CTFs, and isolated test networks.
 - 📝 **Share the learning:** keep useful notes and make experiments reproducible.
 
-## Find me
+## Find me [Click any 1!!]
 
-- [![GitHub] [@manjil000](https://github.com/manjil000)
+- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff46)](https://github.com/manjil000)
 - Tryhackme: [Ctz4Q]https://tryhackme.com/p/Ctz4Q
 - HTB: https://app.hackthebox.com/users/401113
-- [![LinkedIn](https://www.linkedin.com/in/manjil-simkhada-61a703323)]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff46)](https://www.linkedin.com/in/manjil-simkhada-61a703323)]
 - [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff46)](mailto:mycredentials7@gmail.com)
 <div align="center">
 
