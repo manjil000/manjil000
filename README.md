@@ -123,7 +123,7 @@ status:    Always learning
 - 🧪 **Practice in labs:** use local apps, CTFs, and isolated test networks.
 - 📝 **Share the learning:** keep useful notes and make experiments reproducible.
 
-## Find me [Click any 1!!]
+## Find me
 
 - [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff46)](https://github.com/manjil000)
 - [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff46)](https://tryhackme.com/p/Ctz4Q)
