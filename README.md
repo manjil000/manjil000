@@ -133,10 +133,11 @@ status:    Always learning
 
 ## Find me
 
-- GitHub: [@manjil000](https://github.com/manjil000)
+- [![GitHub] [@manjil000](https://github.com/manjil000)
 - Tryhackme: [Ctz4Q]https://tryhackme.com/p/Ctz4Q
 - HTB: https://app.hackthebox.com/users/401113
-- LinkedIn: https://www.linkedin.com/in/manjil-simkhada-61a703323 
+- [![LinkedIn] https://www.linkedin.com/in/manjil-simkhada-61a703323
+- [![Email] (https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff46)](mailto:mycredentials7@gmail.com)
 <div align="center">
 
 *Stay curious. Stay ethical. Keep learning.*
