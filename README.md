@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="./assets/anonymous-banner.gif" alt="We are Anonymous. We are Legends." width="100%"/>
-
+```<img src="./assets/anonymous-banner.gif" alt="We are Anonymous. We are Legends." width="100%"/>
+```
+<img src="https://github.com/manjil000/manjil000/blob/main/assets/anonymous-banner.gif" alt="Anonymous Banner" style="max-width: 100%; height: auto;">
+<video width="100%" autoplay muted loop playsinline style="display: block;">
+  <source src="your-gif-converted-to-mp4.mp4" type="video/mp4">
+</video>
+![Anonymous Banner](assets/anonymous-banner.gif)
 <a href="https://github.com/manjil000">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF46&background=00000000&center=true&vCenter=true&width=700&lines=root%40manjil000%3A~%23+whoami;Security+Enthusiast+%7C+Ethical+Hacker;Breaking+things+to+make+them+stronger;Learning.+Building.+Defending." alt="Typing SVG" />
 </a>
